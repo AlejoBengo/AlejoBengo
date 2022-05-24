@@ -9,6 +9,6 @@ I'm extreamly courious about crypto and cybersecurity. I also love math, economi
 JavaScript | TypeScript | React | Redux | HTML | CSS | MUI | Node | Express | PostgreSQL | Mongo | Sequelize | Git | Scrum | GitHub | Firebase | NodeMailer 
 
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning new framworks for typescript.
+- 🌱 I’m learning new framworks for typescript.
 - 👯 I’m looking to collaborate on learning programms and Back-End projects.
 - 📫 How to reach me: alejobengo@gmail.com
