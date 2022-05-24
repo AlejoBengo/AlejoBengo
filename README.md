@@ -1,17 +1,10 @@
 ### Hi there 👋
-Soy ALEJO BENGOECHEA
-Te presento mi GitHub
+Soy ALEJO BENGOECHEA. Te presento mi GitHub
 
+📢I'm 21 years old. Born and raised in Córdoba, Argentina, I'm deeply passionate about learning techniques, skills and new technologies. So, I became a Full Stack Developer, a journalist and, currently, I'm studing Economics Sciense. I'm looking to introduce myself into crypto and cybersecurity. 
 
-
-💖 Una de las cosas que más nos gusta es trabajar con CSS y Javascript. Nos encantan todos los temas de diseño web, como son los colores, las fuentes y la composición.
-🎥 Nuestro canal de youtube es Javascript DeNoobAPro
-🖥️ Hemos creado también una web en la que, a parte de los vídeos, publicamos trucos, consejos y artículos aprenderjavascript.online
-📢Si quieres formar parte de nuestra comunidad y estar al día de todas las novedades, te invitamos a unirte a nuestro grupo de facebook y seguirnos en Instagram
-💬 Puedes realizarnos cualquier consulta relacionada con el material que explicamos en nuestros vídeos.
-📫 Puedes contactar con nosotros enviando un email a javascriptdenoobapro@gmail.com
-👯 Estamos abiertos a colaborar!
-⚡Cosas curiosas: Somos 3 personas en el equipo, en nuestro facebook podrás encontrar un vídeo donde nos presentamos!
+💻TechSkills
+JavaScript | TypeScript | React | Redux | HTML | CSS | MUI | Node | Express | PostgreSQL | Mongo | Sequelize | Git | Scrum | GitHub | Firebase | NodeMailer 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,3 +15,6 @@ Te presento mi GitHub
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+CONTACTO!
+📧email: alejobengo@gmail.com
